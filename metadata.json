@@ -1,0 +1,6 @@
+{
+  "name": "Sangeet",
+  "description": "Premium local block and online music player with Lark equalizer presets, synchronized scrolling lyrics, and cross-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
